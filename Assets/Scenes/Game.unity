@@ -2839,7 +2839,7 @@ PrefabInstance:
     - target: {fileID: 6097114987158654924, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
       propertyPath: m_Name
-      value: Enemy (19)
+      value: Tough Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 6097114987158654920, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
@@ -2901,6 +2901,31 @@ PrefabInstance:
       propertyPath: chaseDistance
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 6097114987158654926, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2658f55e20ebd064cb38049d0de94568, type: 2}
+    - target: {fileID: 1458205303982477688, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 436344921356238187, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: healthPoints
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273744776633683999, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 01b2546c969fe814794af634cb4534f4, type: 2}
+    - target: {fileID: 3273744776632469169, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 01b2546c969fe814794af634cb4534f4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a84c960a91e616a43b8314af1cc32996, type: 3}
 --- !u!1 &1033934479 stripped
@@ -4663,7 +4688,7 @@ PrefabInstance:
     - target: {fileID: 6097114987158654924, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
       propertyPath: m_Name
-      value: Enemy (18)
+      value: Tough Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 6097114987158654920, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
@@ -4725,6 +4750,26 @@ PrefabInstance:
       propertyPath: chaseDistance
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 6097114987158654926, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2658f55e20ebd064cb38049d0de94568, type: 2}
+    - target: {fileID: 1458205303982477688, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 436344921356238187, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: healthPoints
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273744776633683999, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 01b2546c969fe814794af634cb4534f4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a84c960a91e616a43b8314af1cc32996, type: 3}
 --- !u!4 &1818991192 stripped
@@ -5035,7 +5080,7 @@ PrefabInstance:
     - target: {fileID: 6097114987158654924, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
       propertyPath: m_Name
-      value: Enemy (17)
+      value: Tough Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 6097114987158654920, guid: a84c960a91e616a43b8314af1cc32996,
         type: 3}
@@ -5097,6 +5142,26 @@ PrefabInstance:
       propertyPath: chaseDistance
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 6097114987158654926, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2658f55e20ebd064cb38049d0de94568, type: 2}
+    - target: {fileID: 1458205303982477688, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 436344921356238187, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: healthPoints
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273744776633683999, guid: a84c960a91e616a43b8314af1cc32996,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 01b2546c969fe814794af634cb4534f4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a84c960a91e616a43b8314af1cc32996, type: 3}
 --- !u!4 &2012761045 stripped
